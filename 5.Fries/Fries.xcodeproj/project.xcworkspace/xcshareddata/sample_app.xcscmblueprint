@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "889D576D0E0ACBEC5A52AA36D3DD90DCDBC2E90D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5F90B0F7F933BA69DA18D1D81D07D60F805D6220" : 9223372036854775807,
+    "889D576D0E0ACBEC5A52AA36D3DD90DCDBC2E90D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CC11951F-C6CA-4D54-AD00-B6AE56BD9E0C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5F90B0F7F933BA69DA18D1D81D07D60F805D6220" : "",
+    "889D576D0E0ACBEC5A52AA36D3DD90DCDBC2E90D" : "ios_development\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sample_app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tutorial\/sample\/sample_app\/sample_app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git+ssh:\/\/github.com\/GaryWang1999\/Makeschool-Homework",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F90B0F7F933BA69DA18D1D81D07D60F805D6220"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/brewinglab\/ios_development",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "889D576D0E0ACBEC5A52AA36D3DD90DCDBC2E90D"
+    }
+  ]
+}
