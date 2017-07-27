@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7416A6ED1F282C9C000E59A9"
-               BuildableName = "sample_app.app"
-               BlueprintName = "sample_app"
-               ReferencedContainer = "container:sample_app.xcodeproj">
+               BuildableName = "Fries.app"
+               BlueprintName = "Fries"
+               ReferencedContainer = "container:Fries.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7416A6ED1F282C9C000E59A9"
-            BuildableName = "sample_app.app"
-            BlueprintName = "sample_app"
-            ReferencedContainer = "container:sample_app.xcodeproj">
+            BuildableName = "Fries.app"
+            BlueprintName = "Fries"
+            ReferencedContainer = "container:Fries.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7416A6ED1F282C9C000E59A9"
-            BuildableName = "sample_app.app"
-            BlueprintName = "sample_app"
-            ReferencedContainer = "container:sample_app.xcodeproj">
+            BuildableName = "Fries.app"
+            BlueprintName = "Fries"
+            ReferencedContainer = "container:Fries.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7416A6ED1F282C9C000E59A9"
-            BuildableName = "sample_app.app"
-            BlueprintName = "sample_app"
-            ReferencedContainer = "container:sample_app.xcodeproj">
+            BuildableName = "Fries.app"
+            BlueprintName = "Fries"
+            ReferencedContainer = "container:Fries.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
